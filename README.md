@@ -83,28 +83,6 @@ https://github.com/jhansisreya11/AIProject_ResumeAnalyzer.git
    word_vectors = api.load("glove-wiki-gigaword-300")
 
 7. It imports various libraries for natural language processing and machine learning tasks, including NLTK, CSV, os, regular expressions, PyPDF2, spaCy, NumPy, pandas, Gensim's API for downloading pre-trained models, and ftfy for fixing text encoding issues. Additionally, it imports classes and functions from scikit-learn for feature extraction, model evaluation, and classification tasks.
-    **import nltk
-    import csv
-    import os
-    import re
-    import PyPDF2
-    import spacy
-    import numpy as np
-    import pandas as pd
-    import matplotlib.pyplot as plt
-    import gensim.downloader as api
-    from collections import Counter
-    from nltk.corpus import stopwords
-    from nltk.tokenize import word_tokenize
-    from nltk.stem import PorterStemmer
-    from sklearn.feature_extraction.text import TfidfVectorizer
-    from sklearn.metrics.pairwise import cosine_similarity
-    from sklearn.feature_extraction.text import TfidfVectorizer
-    from sklearn.model_selection import train_test_split
-    from sklearn.neighbors import KNeighborsClassifier
-    from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score, classification_report
-    from sklearn.svm import SVC
-    from ftfy import fix_text**
 
 ### **Usage**
 
