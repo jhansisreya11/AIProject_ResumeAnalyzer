@@ -1,4 +1,4 @@
-### **"# AIProject_ResumeAnalyzer"**
+### **"AIProject_ResumeAnalyzer"**
 
 **Project Submitted by Jhansi Sreya Jagarapu and Sathwik Sarangam**
 
@@ -60,7 +60,7 @@ Resume Analyzer is a comprehensive tool designed to enhance your job application
 ### **Setup & Installation**
 
 **a. We need to download github code using link**
-
+https://github.com/jhansisreya11/AIProject_ResumeAnalyzer.git
 
 **b. Packages which must be downloaded**
 
@@ -131,31 +131,31 @@ To use this project
 ### **Results** 
 
 ### **1. Skills extracted**
-![alt text](image-4.png)
+![image-4](https://github.com/jhansisreya11/AIProject_ResumeAnalyzer/assets/162237187/1aee75c6-2792-4039-b93c-c921a6582588)
 
 ### **2. Display of top matches of job with resume and their percentage match, total skills count and matched skills count**
-![alt text](image-5.png)
+![image-5](https://github.com/jhansisreya11/AIProject_ResumeAnalyzer/assets/162237187/42389444-01a5-4b38-aee5-0072ca3e98ed)
 
 ### **3. Output of matching each resume with its highly matched jobs using KNN Algorithm**
-![alt text](image-6.png)
+![image-6](https://github.com/jhansisreya11/AIProject_ResumeAnalyzer/assets/162237187/4a34b231-dcdb-4356-8ab3-39f5370896b0)
 
 ### **4. Accuracy, precision, recall and F1 Score of KNN Classifier**
-![alt text](image-8.png)
+![image-8](https://github.com/jhansisreya11/AIProject_ResumeAnalyzer/assets/162237187/0d8c3fe5-972c-48c6-9de2-aee8a64c938b)
 
 ### **5. Accuracy, precision, recall and F1 Score of SVM Classifier**
-![alt text](image-7.png)
+![image-7](https://github.com/jhansisreya11/AIProject_ResumeAnalyzer/assets/162237187/34b77899-5530-4650-b901-f719dc1c7901)
 
 ### **6. Pie Chart between job title and percentage match**
-![alt text](image.png)
+![image](https://github.com/jhansisreya11/AIProject_ResumeAnalyzer/assets/162237187/d518a5aa-dd28-491e-93cd-9529fed975a0)
 
 ### **7. Bar Chart between job title and total skills count**
-![alt text](image-1.png)
+![image-1](https://github.com/jhansisreya11/AIProject_ResumeAnalyzer/assets/162237187/28f290b0-fe99-4dc3-afab-3625a71c71d4)
 
 ### **8. Bar Chart between job title and matched skills count**
-![alt text](image-2.png)
+![image-2](https://github.com/jhansisreya11/AIProject_ResumeAnalyzer/assets/162237187/67fe5263-9d23-4124-ae03-49e4e63c96a6)
 
 ### **9. Bar Chart between job title and percentage match**
-![alt text](image-3.png)
+![image-3](https://github.com/jhansisreya11/AIProject_ResumeAnalyzer/assets/162237187/603ebcee-1c91-4d9d-a2e3-376f1d6de2a9)
 
 
 
