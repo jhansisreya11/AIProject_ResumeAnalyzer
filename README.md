@@ -16,18 +16,18 @@ Resume Analyzer is a comprehensive tool designed to enhance your job application
 ### **Algorithms used**
 
 **1. Text Processing and Analysis:**
-    Tokenization
-    Stemming
-    Stopwords Removal
-    TF-IDF (Term Frequency-Inverse Document Frequency) Vectorization
+    Tokenization,
+    Stemming,
+    Stopwords Removal,
+    TF-IDF (Term Frequency-Inverse Document Frequency) Vectorization,
     Cosine Similarity
 **2. Machine Learning Algorithms:**
-    K-Nearest Neighbors (KNN) Classifier
+    K-Nearest Neighbors (KNN) Classifier,
     Support Vector Machine (SVM) Classifier
 **3. Evaluation Metrics:**
-    Accuracy
-    Precision
-    Recall
+    Accuracy,
+    Precision,
+    Recall,
     F1-Score
 **4. Data Visualization:**
     Matplotlib for plotting graphs and visualizations
