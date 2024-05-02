@@ -1,5 +1,5 @@
-### **AIProject**
-### **ResumeAnalyzer**
+###### **AIProject**
+###### **ResumeAnalyzer**
 
 **Project Submitted by Jhansi Sreya Jagarapu and Sathwik Sarangam**
 
